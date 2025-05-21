@@ -24,7 +24,7 @@ const Hero = () => {
           </p>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             From  Algeria <br className='sm:block hidden' />
-            🇩🇿
+            
           </p>
         </div>
       </div>
